@@ -1,5 +1,4 @@
 # Text_Classification_With_Tenserflow
-# Text Classification with TensorFlow and TensorFlow Hub
 
 This project demonstrates text classification using TensorFlow. The model is trained to classify sentiment in IMDB movie reviews using a pre-trained embedding layer and a simple neural network.
 
